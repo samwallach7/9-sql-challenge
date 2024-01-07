@@ -7,7 +7,7 @@ Attached please find the documents for the Module 9 Challenge within the SqlChal
     - The table_schema.sql file which features all of the SQL query code used to create tables in the pgAdmin Database.
     - The 'SQL_Table_Checks' folder which displays screenshots from pgAdmin after the csv files were loaded into each created table.
     - The data_analysis_code.sql file which features all of the SQL query code used in the Data Analysis section.
-  - The 'Data_Analysis_Results' folder which features csv files for each question from the Data Analysis section.
+    - The 'Data_Analysis_Results' folder which features the csv files for each question from the Data Analysis section.
 
     Thank you!
     Sam Wallach
