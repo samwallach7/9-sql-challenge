@@ -18,7 +18,7 @@ DROP VIEW da_q1;
 CREATE VIEW da_q2 AS
 SELECT e.first_name, e.last_name, e.hire_date
 FROM Employees as e
-WHERE e.hire_date LIKE '%1986'
+WHERE e.hire_date LIKE '%1986%'
 ORDER BY e.last_name;
 
 SELECT * FROM da_q2;
